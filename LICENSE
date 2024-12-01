@@ -1,3 +1,19 @@
+NOTE: 
+
+Any ACLED data may be proprietary to them. 
+
+This is a GitHub ONLY package, so I can share (and update) 
+ACLED data with others without getting separate ACLED 
+permission. 
+
+AFTER we figure out what we are doing, some data, code, 
+and analyses may be ported to other places, e.g., 
+Wikiversity or CRAN packages like Ecfun and Ecdat as 
+long as we seem to have a legal right to share in those 
+ways. 
+
+###################
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
