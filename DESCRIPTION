@@ -15,5 +15,5 @@ and Event Data (ACLED), World Bank and possible other sources.
 LazyData: true
 License: GPL (>=2)
 Language: en-us
-URL: https://www.r-project.org
+URL: https://github.com/sbgraves237/ACLED
 NeedsCompilation: no
