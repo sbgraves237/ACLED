@@ -1,0 +1,19 @@
+Package: ACLED
+Version: 0.0-1
+Date: 2024-11-30
+Title: Merge and analyze Armed Conflict Location and Effect Data (ACLED)
+Authors@R: person(given = "Spencer", 
+                  family = "Graves", 
+                  role = c("aut", "cre"), 
+                  email = "spencer.graves@effectivedefense.org")
+Author: Spencer Graves [aut, cre]
+Maintainer: Spencer Graves <spencer.graves@effectivedefense.org>
+Depends: R (>= 4.4.2)
+Suggests: Ecfun, Ecdat
+Description: Merge and analyze data from Armed Conflict Location 
+and Event Data (ACLED), World Bank and possible other sources.
+LazyData: true
+License: GPL (>=2)
+Language: en-us
+URL: https://www.r-project.org
+NeedsCompilation: no
